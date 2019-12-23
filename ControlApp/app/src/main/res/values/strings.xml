@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ControlApp</string>
+    <string name="menu_first">数据输入</string>
+    <string name="menu_second">发送记录</string>
+    <string name="menu_third">返回光谱</string>
+
+
+</resources>
